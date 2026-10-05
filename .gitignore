@@ -1,0 +1,28 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.backup.jou
+
+# Vivado cache
+*.cache/
+*.hw/
+*.ip_user_files/
+
+# Vivado generated runs
+*.runs/
+
+# Vivado simulation output
+*.sim/
+
+# Xilinx generated files
+*.xpr~
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
